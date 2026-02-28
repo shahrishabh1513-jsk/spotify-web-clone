@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/fluency/200/musical-notes.png" width="120"/>
-</p>
-
 <h1 align="center">🎧 Spotify Web Clone</h1>
 
 <p align="center">
@@ -12,7 +8,7 @@ Modern Spotify Inspired Music Player using HTML, CSS & JavaScript
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here)
+👉 https://shahrishabh1513-jsk.github.io/spotify-web-clone/
 
 ---
 
