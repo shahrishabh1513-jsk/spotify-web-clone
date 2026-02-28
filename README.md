@@ -114,7 +114,7 @@ This project was created to:
 
 ## 📸 Screenshots
 
-(Add images inside `/screenshots` folder)
+<img width="1909" height="833" alt="SS1_Day_36" src="https://github.com/user-attachments/assets/a38ca286-1dc9-460d-809f-164d390ebd27" />
 
 
 ---
